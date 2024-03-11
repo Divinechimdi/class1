@@ -1,0 +1,6 @@
+this is a new file that we will be working on
+solve 
+x=65
+y=20
+m=5+7
+
