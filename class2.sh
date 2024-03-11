@@ -9,4 +9,5 @@ echo this is the value: $(expr $a - $b)
 }
 sub
 
-
+Value crosschecked 
+go ahead and print (number 7)
