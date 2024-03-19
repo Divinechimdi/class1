@@ -7,3 +7,5 @@ This is our git lecture note
  this application you must work for me 
  this is the new changes ----
  some changes updated
+
+ welcome back
